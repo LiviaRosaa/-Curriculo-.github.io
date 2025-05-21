@@ -1,5 +1,6 @@
 body{
     background-color: antiquewhite;
+    margin: 0 20% 0 20%;
 }
 
 #t1{
@@ -14,9 +15,9 @@ body{
 }
 
 #foto{
-    display: flex;
+     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: center;   
   }
   
 a{
