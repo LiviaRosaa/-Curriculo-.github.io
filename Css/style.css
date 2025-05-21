@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+
+#t1{
+    color: palevioletred;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   text-decoration: underline overline;
+   text-align: center;
+   font-style: normal;
+   background-color: aliceblue;
+   border-radius: 10px;
+  
+}
+
+#foto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+a{
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+a:hover {
+    color: pink;
+    }
+
+h2{
+    background-color: rgb(250, 169, 197);
+    font-family:'Times New Roman', Times, serif;
+    display: table;
+    padding: 4px 24px;
+    border-radius: 10px;
+    box-shadow: 0.15rem 0.15rem 0.3rem #000000;
+}
+
+p.destaque{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+footer{
+    background-color: aliceblue;
+    color:rgb(228, 102, 144) ;
+    text-align: center;
+    text-decoration: underline overline;
+    border-radius: 10px;
+}
