@@ -4,8 +4,8 @@ body{
 }
 
 #t1{
-    color: palevioletred;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: palevioletred;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    text-decoration: underline overline;
    text-align: center;
    font-style: normal;
@@ -31,10 +31,10 @@ a:hover {
 h2{
     background-color: rgb(250, 169, 197);
     font-family:'Times New Roman', Times, serif;
-    display: table;
-    padding: 4px 24px;
+    padding: 1px 24px;
     border-radius: 10px;
     box-shadow: 0.15rem 0.15rem 0.3rem #000000;
+    text-align: center;
 }
 
 p.destaque{
@@ -44,7 +44,7 @@ p.destaque{
 
 footer{
     background-color: aliceblue;
-    color:rgb(228, 102, 144) ;
+    color:palevioletred ;
     text-align: center;
     text-decoration: underline overline;
     border-radius: 10px;
